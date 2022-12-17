@@ -1,7 +1,7 @@
 stages:
-	- test
+  - scan
 
 sast:
-  stage: test
+  stage: scan
 include:
-	- template: Security/SAST.gitlab-ci.yml
+  - template: Security/SAST.gitlab-ci.yml
