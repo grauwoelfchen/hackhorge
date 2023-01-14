@@ -11,21 +11,10 @@
 <div>
   <h3>Links</h3>
   <div>
-    <p>Find me <code>yasha_tty</code> at:</p>
+    <p>You can find me <code>yasha_tty</code> at:</p>
     <ul>
-      <li><a href="https://twitter.com/yasha_tty">Twitter</a></li>
       <li><a href="https://www.twitch.tv/yasha_tty">Twitch</li>
       <li><a href="https://www.youtube.com/@yasha_tty">Youtube</a></li>
-      <li><a href="https://steamcommunity.com/id/yasha_tty/">Steam</a></li>
-    </ul>
-  </div>
-  <div>
-    <p><code>grauwoelfchen</code> is my another account as a developer at:</p>
-    <ul>
-      <li><a href="https://gitlab.com/grauwoelfchen/">GitLab</a>(GitLab.com)</li>
-      <li><a href="https://github.com/grauwoelfchen/">GitHub</a></li>
-      <li><a href="https://sr.ht/~grauwoelfchen/">Sourcehut</a></li>
-      <li><a href="https://fosstodon.org/@grauwoelfchen">Mastodon</a>(fosstodon.org)</li>
     </ul>
   </div>
 </div>

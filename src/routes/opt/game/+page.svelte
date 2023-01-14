@@ -7,6 +7,6 @@
 <div>
   <p>The list of games I'm working on</p>
   <ul>
-    <li><a href="https://miaow.yasha.rs">Miaow</a> ... a game on HTML5 Canvas</li>
+    <li><a href="https://miaow.yasha.app">Miaow</a> ... a game on HTML5 Canvas</li>
   </ul>
 </div>
