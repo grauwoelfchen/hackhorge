@@ -13,7 +13,8 @@
   <div>
     <p>You can find me <code>yasha_tty</code> at:</p>
     <ul>
-      <li><a href="https://www.twitch.tv/yasha_tty">Twitch</li>
+      <li><a href="https://mastodon.gamedev.place/@yasha_tty">Mastodon (gamedev.place)</a></li>
+      <li><a href="https://www.twitch.tv/yasha_tty">Twitch</a></li>
       <li><a href="https://www.youtube.com/@yasha_tty">Youtube</a></li>
     </ul>
   </div>
