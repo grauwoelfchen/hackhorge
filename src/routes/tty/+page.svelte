@@ -5,17 +5,11 @@
 <span class="path">/tty</span>
 <h1>About</h1>
 <div>
-  <h2>Hoi Zäme!</h2>
-  <p>I'm Yasha. A programmer who works as <a href="https://grauwoelfchen.net">grauwoelfchen</a> by day, hack something software/hardware by night.</p>
-</div>
-<div>
-  <h3>Links</h3>
-  <div>
-    <p>You can find me <code>yasha_tty</code> at:</p>
-    <ul>
-      <li><a href="https://mastodon.gamedev.place/@yasha_tty">Mastodon (gamedev.place)</a></li>
-      <li><a href="https://www.twitch.tv/yasha_tty">Twitch</a></li>
-      <li><a href="https://www.youtube.com/@yasha_tty">Youtube</a></li>
-    </ul>
-  </div>
+  <p>Hoi Zäme! I'm Yasha. A programmer who mainly works for a job like Software/DevOps/Platform engineer or SRE somewhere in backend as <a href="https://grauwoelfchen.net">grauwoelfchen</a> by day, hacks something exciting hardwares by night. I recently also started enjoying gamedev and apps development for fun.</p>
+  <p>You can find me as <code>yasha_tty</code> at:</p>
+  <ul>
+    <li><a href="https://mastodon.gamedev.place/@yasha_tty">Mastodon (gamedev.place)</a></li>
+    <li><a href="https://www.twitch.tv/yasha_tty">Twitch</a></li>
+    <li><a href="https://www.youtube.com/@yasha_tty">Youtube</a></li>
+  </ul>
 </div>
