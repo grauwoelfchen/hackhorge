@@ -8,6 +8,8 @@
     <a href="/tty">About</a>
     <a href="/dev">Dev</a>
     <a href="/opt/game">Gamedev</a>
+    <a href="/opt/android-studio">Android</a>
+    <a href="/mnt/hfsplus-disk/Users/Darwin/Applications">macOS/iOS</a>
   </nav>
   <main>
     <slot></slot>
